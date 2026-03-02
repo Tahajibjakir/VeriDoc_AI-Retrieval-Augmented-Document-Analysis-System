@@ -11,6 +11,18 @@ Veridoc AI is a full-stack, AI-powered system designed to automate due diligence
   <img src="https://github.com/user-attachments/assets/893b83b3-7d38-459a-9fc2-f02b99358b5f" width="100%" />
 </p>
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/961a9818-a3ca-4454-bb8b-91188d86c152" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/dd630353-6800-4bb8-bd24-7604b6eaf9d8" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/f1cdcf29-3bdd-4c18-b6e8-3b04596875d0" width="100%" />
+</p>
+
 ## 🏗 Detailed Architecture
 
 Veridoc AI follows a modern decoupled architecture, separating the client-side presentation from the server-side AI processing and data persistence.
