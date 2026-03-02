@@ -8,7 +8,7 @@ Veridoc AI is a full-stack, AI-powered system designed to automate due diligence
 <h1 align="center">Project Output (UI)</h1>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/ceb44f5d-6118-43c6-855e-60ac09dc94c4" width="100%" />
+  <img src="https://github.com/user-attachments/assets/893b83b3-7d38-459a-9fc2-f02b99358b5f" width="100%" />
 </p>
 
 ## 🏗 Detailed Architecture
