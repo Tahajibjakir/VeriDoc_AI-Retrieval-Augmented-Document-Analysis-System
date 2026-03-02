@@ -1,4 +1,4 @@
-# Veridoc AI - Due Diligence Assistant
+# VeriDoc AI: Retrieval Augmented Document Analysis System
 
 Veridoc AI is a full-stack, AI-powered system designed to automate due diligence and answer complex questionnaires based on uploaded reference documents. It utilizes Retrieval-Augmented Generation (RAG) to accurately parse large documents, understand context, and generate precise answers to user-provided questionnaires.
 
